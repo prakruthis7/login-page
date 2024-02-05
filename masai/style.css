@@ -1,0 +1,40 @@
+button {
+    border: 0;
+    padding: 0;
+    margin: 20px;
+}
+
+#display {
+    font-size: 30px;
+    width: 300px;
+    background-color: yellow;
+    padding: 10px;
+    text-align: right;
+}
+.num-btn {
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    height: 30px;
+    width: 30px;
+}
+
+.op-btn
+{
+    background-color: red;
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+.sp-btn
+{
+    background-color: green;
+    color: white;
+    height: 30px;
+    width: 60px;
+    border-radius: 5px;
+    font-size: 20px;
+}
